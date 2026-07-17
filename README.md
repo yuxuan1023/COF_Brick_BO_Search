@@ -1,4 +1,5 @@
-Here it is the code for the paper: 10.1063/5.0223540.
+Here it is the code for the paper {
+Designing building blocks of covalent organic frameworks through on-the-fly batch-based Bayesian optimization} DOI: 10.1063/5.0223540.
 
 The main code is aml_v20230915.py, run it directly by 'python aml_v20230915.py'. All the rest python scripts will be called automatically.
 'df_initial_with_smi.json',the initial population where the search started;
